@@ -1,0 +1,14 @@
+<data xmlns:p="http://example.org/ns">
+    <Report ID="1">
+        <Date>REVIEW</Date>
+        <AuthorID>1</AuthorID>
+    </Report>
+    <Report ID="2">
+        <Date>REVIEW</Date>
+        <AuthorID>2</AuthorID>
+    </Report>
+    <p:Report p:ID="3">
+        <Date>REVIEW</Date>
+        <AuthorID>3</AuthorID>
+    </p:Report>
+</data>

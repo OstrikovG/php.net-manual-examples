@@ -1,0 +1,17 @@
+###> MacBook ###
+.DS_Store
+###> MacBook ###
+
+###> IDE ###
+.idea/
+###> IDE ###
+
+/test.php
+/test.xml
+/test.html
+/test.txt
+/ref.strings/currency.txt
+/ref.strings/date.txt
+/ref.stream/first1k.txt
+/ref.stream/foo-bar.txt
+/ref.stream/remainder.txt
